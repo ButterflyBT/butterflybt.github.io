@@ -1,0 +1,56 @@
+body
+{
+    background:linear-gradient(to right top, aquamarine, cyan,pink);
+    font-family: Comic Sans Ms;
+}
+.blok
+{
+    width:1000px;
+    height:520px;
+    margin:auto;
+    border-radius: 10px;
+    border: solid white 2px;
+}
+h1
+{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+h2
+{
+    text-align: center;
+}
+h3
+{
+    margin-left:20px;
+}
+li
+{
+    font-size: 20px;
+}
+p
+{
+    font-size: 20px;
+    margin-left:20px;
+}
+#img1
+{
+    width:500px;
+    height:300px;
+    border-radius: 10px;
+}
+#img2
+{
+    float: left;
+    width:500px;
+    height:300px;
+    border-radius: 10px;
+}
+footer
+{
+    font-style: italic;
+    background-color: lightgrey;
+    height: 30px;
+    text-align: center;;
+}
